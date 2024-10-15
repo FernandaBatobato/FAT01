@@ -32,5 +32,11 @@ git branch -a
 git branch (branch-name)
 
 -switch
-git check out (branch-name)
+git checkout (branch-name)
 git switch (branch-name)
+
+-merging
+git merge (branch-name)
+
+-delete a branch
+git branch -d (branch-name)
